@@ -1,0 +1,7 @@
+api_id = 21609776
+api_hash = "61f2558d634df353a2a9806661f4b091"
+bot_token = "5940119184:AAHKEw7V7zGVZvwV4T4RCgmZKfR7lSGKNNE"
+auth_users = [5623849580,-1001861953997]
+sudo_user = 5623849580
+log_channel = -1001791480211
+txt_channel = -1001791480211
